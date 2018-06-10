@@ -1,10 +1,8 @@
-**GPrism** is a Bukkit plugin that tracks changes to a Minecraft world. These changes can be looked
+**Prism** is a Bukkit plugin that tracks changes to a Minecraft world. These changes can be looked
 up, rolled back, restored, etc. There are also various anti-griefing tools.
 
-GPrism is a downstream fork of @viveleroi's [Prism-Bukkit][PRISM], with various fixes and feature
+Prism is a downstream fork of @viveleroi's [Prism-Bukkit][PRISM], with various fixes and feature
 additions by a few GitHub contributors and Roy Curtis.
-
-For information on how to use GPrism, [see the original Prism wiki.][WIKI]
 
 # Differences from upstream
 
