@@ -2,7 +2,10 @@
 up, rolled back, restored, etc. There are also various anti-griefing tools.
 
 Prism is a downstream fork of @viveleroi's [Prism-Bukkit][PRISM], with various fixes and feature
-additions by a few GitHub contributors and Roy Curtis.
+additions by a few GitHub contributors, Roy Curtis and is current maintained by Troy Smith.
+
+The old Prism Wiki is gone but web-archive has a copy at [WIKI]
+that can be used for information on installation, commands, and permissions until I transition the wiki to Gitlab.
 
 # Differences from upstream
 
@@ -47,7 +50,7 @@ remove features that we don't use or think should be provided by GPrism.
 That said; please feel free to cherry pick commits or fork from this fork, or contribute to this
 fork with issues and pull requests.
 
-**Only the latest server version (1.11.2) is supported; older servers may break GPrism.**
+**Only the latest server version (1.12.2) is supported; older servers may break Bukkit-Prism.**
 
 # Building, debugging and debug logging
 
@@ -63,7 +66,6 @@ For instructions and screenshots on how to. . .
 
 * `org.apache.tomcat:tomcat-jdbc:7.0.52`
 * `org.apache.tomcat:tomcat-juli:7.0.52`
-* `mkremins:fanciful:0.3.3-SNAPSHOT`
 
 ## License
 
@@ -73,7 +75,7 @@ for the full license.
 
 [PRISM]: https://github.com/prism/Prism-Bukkit
 [SPONGE]: https://github.com/prism/Prism
-[WIKI]: http://discover-prism.com/wiki/
+[WIKI]: https://web.archive.org/web/20171121220235/http://discover-prism.com:80/index/
 [BUILD]: https://docs.google.com/document/d/1TTDXG7IZ9M0D2-rzbILAWg1CKjynHK8fNGxbf3W4wBk/view
 [SHADE]: http://i.imgur.com/9eqRiwR.png
 [LICENSE]: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
