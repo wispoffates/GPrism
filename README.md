@@ -69,7 +69,7 @@ For instructions and screenshots on how to. . .
 
 ## License
 
-As GPrism is a fork of Prism by viveleroi, GPrism is licensed the under the Creative Commons
+As Prism-Bukkit is a fork of Prism by viveleroi, Prism-Bukkit is licensed the under the Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 Unported. Please see `LICENSE` or [this website][LICENSE]
 for the full license.
 
