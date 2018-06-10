@@ -8,6 +8,9 @@ For information on how to use GPrism, [see the original Prism wiki.][WIKI]
 
 # Differences from upstream
 
+## By Troy Smith
+* Cleanup dead dependencies
+
 ## Pulled in from other forks
 
 * 1.9, 1.9.4 and 1.10 support by @Jikoo
