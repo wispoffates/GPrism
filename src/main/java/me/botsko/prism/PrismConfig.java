@@ -30,8 +30,6 @@ public class PrismConfig extends ConfigBase {
         config.addDefault( "prism.debug", false );
         // config.addDefault("prism.language", "en-us");
 
-        config.addDefault( "prism.allow-metrics", true );
-
         // Database
         config.addDefault( "prism.database.max-pool-connections", 20 );
         config.addDefault( "prism.database.pool-initial-size", 10 );

@@ -1,8 +1,8 @@
 name:        ${project.name}
 version:     ${project.version}
 description: ${project.description}
-authors:     [viveleroi, Jikoo, Siggi88, PavelM, PhanaticD, RoyCurtis]
-website:     https://github.com/Gamealition/GPrism
+authors:     [viveleroi, Jikoo, Siggi88, PavelM, PhanaticD, RoyCurtis, wispoffates]
+website:     https://gitlab.com/BlockStack/Prism-Bukkit
 main:        me.botsko.prism.Prism
 softdepend:  [WorldEdit,HeroChat]
 
