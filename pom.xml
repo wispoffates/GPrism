@@ -6,7 +6,7 @@
 
   <!-- Project properties -->
 
-  <groupId>io.github.wispoffates</groupId>
+  <groupId>com.gitlab.blockstack</groupId>
   <artifactId>prism</artifactId>
   <version>1.12-2.0.13</version>
 
